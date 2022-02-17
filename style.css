@@ -7,13 +7,13 @@
   
 
 }
-header{
-    
+header{display: flex; 
+    justify-content: center;
     width: 100%;
-  height: 400px;
-  background-image: url(./assets/ranieju.png);
-  background-position: top center;
-  background-repeat: no-repeat;
+    height: 400px;
+    
+
+  
   
 
 
